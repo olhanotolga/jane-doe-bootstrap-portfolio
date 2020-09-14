@@ -1,0 +1,8 @@
+body {
+	background-image: url(./images/nikita-kachanovsky-OVbeSXRk_9E-unsplash.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.navbar-brand img {
+	height: 2rem;
+}
